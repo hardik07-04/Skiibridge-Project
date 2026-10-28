@@ -1,0 +1,6 @@
+{
+  "name": "IMovies - Cinema Booking Platform & System Architecture",
+  "description": "Seamless cinema booking platform with real-time seat reservation, interactive ER diagrams, technical architecture, user flows, MVC patterns, and interactive demo walkthrough.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
